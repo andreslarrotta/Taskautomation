@@ -1,0 +1,12 @@
+body {
+  background: yellow;
+}
+
+body h1 {
+  color: purple;
+}
+
+body h2 {
+  font-size: 4rem;
+  color: purple;
+}
