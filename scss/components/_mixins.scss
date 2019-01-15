@@ -1,0 +1,15 @@
+@mixin button{
+    display: inline-block;
+    text-decoration: none;
+    padding: 2rem;
+
+
+    &:hover{
+        background: red;
+    }
+}
+body{
+    h1{
+        @include button;
+    }
+}

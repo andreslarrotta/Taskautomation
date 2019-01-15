@@ -1,0 +1,13 @@
+$primary-color: black;
+
+body{
+    background: yellow;
+
+    h1{
+        color:$primary-color;
+    }
+    h2{
+        font-size: 4rem;
+        color: $primary-color;
+    }
+}

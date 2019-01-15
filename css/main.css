@@ -3,10 +3,20 @@ body {
 }
 
 body h1 {
-  color: purple;
+  color: black;
 }
 
 body h2 {
   font-size: 4rem;
-  color: purple;
+  color: black;
+}
+
+body h1 {
+  display: inline-block;
+  text-decoration: none;
+  padding: 2rem;
+}
+
+body h1:hover {
+  background: red;
 }
